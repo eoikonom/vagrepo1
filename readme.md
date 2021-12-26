@@ -1,2 +1,2 @@
 Hello, this is my first commit
-New git content
+I am learning git content and merge
